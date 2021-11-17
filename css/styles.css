@@ -1,7 +1,7 @@
 body {
 	text-align: center;
 	font-size: 18px;
-	font-family: 'Courier New', Courier, monospace;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
 	margin: 0;
 	padding: 0;
 }
@@ -16,6 +16,10 @@ body {
 
 .container h1 {
 	text-align: center;
+}
+
+.container p {
+	padding: 0 10px;
 }
 
 .cabecera {
