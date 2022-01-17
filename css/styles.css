@@ -1,26 +1,11 @@
 body {
+	background: rgb(62, 66, 66);
 	text-align: center;
 	font-size: 18px;
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
 	margin: 0;
 	padding: 0;
 	color: rgb(62, 66, 66);
-}
-
-.container {
-	border: gray solid 1px;
-	width: 70%;
-	padding: 0;
-	margin: 0 auto;
-	text-align: left;
-}
-
-.container h1 {
-	text-align: center;
-}
-
-.container p {
-	padding: 0 10px;
 }
 
 .cabecera {
@@ -39,4 +24,30 @@ body {
 	font-weight: normal;
 	font-size: 20px;
 	padding: 0 0 0 1em;
+}
+
+.cabecera .logo {
+	width: 50px;
+	vertical-align: middle;
+}
+
+.container {
+	border: gray solid 1px;
+	width: 70%;
+	padding: 0;
+	margin: 0 auto;
+	text-align: left;
+}
+
+.container h1 {
+	text-align: center;
+}
+
+.container p {
+	padding: 0 10px;
+}
+
+.post {
+	background: rgb(252, 246, 242);
+	padding: 1em;
 }
