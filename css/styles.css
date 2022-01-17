@@ -51,3 +51,10 @@ body {
 	background: rgb(252, 246, 242);
 	padding: 1em;
 }
+
+.footer {
+	background: #777;
+	color: white;
+	text-align: center;
+	padding: 0.5em;
+}
